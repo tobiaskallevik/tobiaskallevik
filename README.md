@@ -5,4 +5,4 @@
 
 - 📫 How to reach me [https://www.linkedin.com/in/tobias-fidje-kallevik-428ba9289/](https://www.linkedin.com/in/tobias-fidje-kallevik-428ba9289/)
 
-- 🌐 [Checkout my portfolio site](tobiaskallevik.tech)
+- 🌐 [Checkout my portfolio site](www.tobiaskallevik.tech)
